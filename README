@@ -1,0 +1,9 @@
+This is a project that i made at 17 so excuse the mistakes, i will get to fixing it sometime...
+This movie recommendation engine is my first attempt at ML so it insent to complex. 
+
+I wrote documentation to this project at the time, how ever, its in hebrow - i added the pdf to the project.
+
+For the sake of the non-hebrow spekers that happen to get across this project:
+I used two main algorithms in this project - "k-Nearest Neighbors" and the "Jaccard Index" for two approaches at recommndetion (historical and details based).
+The guiding principle bihind the whay the backend is structured is scalability. I used the "Factory Method" design pattern as the backbone of the engine so that one can add and 
+assimilate new recommendation algorithms
